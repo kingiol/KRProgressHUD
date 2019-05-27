@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import KRActivityIndicatorView
+import KDKRActivityIndicatorView
 
 /// Type of KRProgressHUD's background view.
 ///

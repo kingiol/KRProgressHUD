@@ -7,7 +7,7 @@
 
 import XCTest
 @testable import KRProgressHUD
-import KRActivityIndicatorView
+import KDKRActivityIndicatorView
 
 class KRProgressHUDTests: XCTestCase {
 
